@@ -1,0 +1,7 @@
+print(type("Ola, mundo!"))
+print(type(17))
+print("Rubens - Ola, mundo")
+print(type(21))
+print(type('a'))
+print(type(1/3))
+print(type('c'))
